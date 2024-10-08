@@ -1,0 +1,43 @@
+body {
+    font-family: Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.firstcontainer {
+    background-color: #1F2937;
+    margin: 0;
+    padding-top: 1px;
+}
+
+.heromain {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.herosecond {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB; 
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 25px;
+    border: solid #3882F6;
+}
