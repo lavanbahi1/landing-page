@@ -73,7 +73,6 @@ img {
 .leftcontainer {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     flex-basis: 460px;
     border: solid red;
 }
