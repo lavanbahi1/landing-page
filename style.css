@@ -94,3 +94,18 @@ img {
     color: #1F2937;
     font-weight: 900;
 }
+
+.infoboxescontainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    border: solid red;
+}
+
+.infoboxescontainer > * {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: solid #3882F6;
+    border-width: thick;
+}
