@@ -84,3 +84,13 @@ img {
     flex-basis: 540px;
     border: solid red;
 }
+
+.infotextcontainer {
+    text-align: center;
+}
+
+.infotext {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
