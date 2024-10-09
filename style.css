@@ -126,11 +126,17 @@ img {
 }
 
 .quotecontainer {
+    width: 830px;
     border: solid red;
 }
 
 .thirdcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .quote {
@@ -143,4 +149,12 @@ img {
 .signature {
     color: #1F2937;
     font-weight: 900;
+    margin-top: -50px;
+}
+
+.signaturecontainer {
+    width: 830px;
+    display: flex;
+    justify-content: flex-end;
+    border: solid red;
 }
