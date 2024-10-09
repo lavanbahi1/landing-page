@@ -55,14 +55,14 @@ ul {
     display: flex;
     width: 1000px;
     justify-content: space-between;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .herocontainer {
     width: 1000px;
     padding-bottom: 64px;
     display: flex;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 img {
@@ -74,7 +74,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-basis: 460px;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .rightcontainer {
@@ -82,7 +82,7 @@ img {
     justify-content: center;
     align-items: center;
     flex-basis: 540px;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .infotextcontainer {
@@ -99,7 +99,7 @@ img {
     display: flex;
     justify-content: center;
     gap: 50px;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .box {
@@ -113,7 +113,7 @@ img {
 .infoboxescontainer > * {
     width: 210px;
     text-align: center;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .infosubtext {
@@ -127,7 +127,7 @@ img {
 
 .quotecontainer {
     width: 830px;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .thirdcontainer {
@@ -156,7 +156,7 @@ img {
     width: 830px;
     display: flex;
     justify-content: flex-end;
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .fourthcontainer {
@@ -178,7 +178,7 @@ img {
 }
 
 .ctatext {
-    border: solid red;
+    /*border: solid red;*/
 }
 
 .cta {
