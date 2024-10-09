@@ -158,3 +158,25 @@ img {
     justify-content: flex-end;
     border: solid red;
 }
+
+.ctacontainer {
+    background-color: #3882F6;
+}
+
+.cta {
+    color: #F9FAF8;
+}
+
+.cta2 {
+    color: #E5E7EB
+}
+
+.secondsignup {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: solid #F9FAF8;
+    width: 120px;
+    height: 30px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
