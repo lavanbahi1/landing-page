@@ -124,3 +124,23 @@ img {
 .secondcontainer {
     padding-bottom: 102px;
 }
+
+.quotecontainer {
+    border: solid red;
+}
+
+.thirdcontainer {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.signature {
+    color: #1F2937;
+    font-weight: 900;
+}
