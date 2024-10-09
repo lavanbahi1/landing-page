@@ -102,10 +102,21 @@ img {
     border: solid red;
 }
 
-.infoboxescontainer > * {
+.box {
     width: 200px;
     height: 200px;
     border-radius: 10px;
     border: solid #3882F6;
     border-width: thick;
+}
+
+.infoboxescontainer > * {
+    width: 210px;
+    text-align: center;
+    border: solid red;
+}
+
+.infosubtext {
+    font-size: 18px;
+    color: #404142;
 }
